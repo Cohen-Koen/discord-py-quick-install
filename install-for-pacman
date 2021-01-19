@@ -1,0 +1,6 @@
+echo off
+sudo pacman -S python-pip
+python3 -m pip install -U discord.py
+echo discord py installed
+python3 -m pip install -U "discord.py[voice]"
+echo voice support added
