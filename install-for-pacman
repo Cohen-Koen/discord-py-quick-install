@@ -1,4 +1,5 @@
 echo off
+sudo pacman -S python3
 sudo pacman -S python-pip
 python3 -m pip install -U discord.py
 echo discord py installed
