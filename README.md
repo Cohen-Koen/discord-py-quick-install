@@ -1,4 +1,6 @@
-# discord py quick install
-### this  is just a small project to get a better understanding of how to use bash/whatever windows uses
-## so just run install.cmd for windows or install for linux.
-### feel free to addon to this!
+<body style="background-color:blue">
+# <span style="color:hotpink"> Discord py quick install scripts
+---
+This is a small shell script/batch project....
+> *ps: I know neither language so if you notice a error fix it, dont make a issue and complain.*
+
