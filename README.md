@@ -4,7 +4,7 @@ This is a small shell script/batch project....
 > *ps: I know neither language so if you notice a error fix it, dont make a issue and complain.*
 
 ---
-Nothing to talk about here.... *my discord is SomeRandomUser#4920*
+Nothing to talk about here.... *my discord is SomeRandomUser#I dont even remember*
 
 ---
 ## Dev/devs
